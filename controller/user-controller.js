@@ -16,6 +16,11 @@ const users = [
         name: "user3",
         email: "testemail3@gmail.com",
         role: "staff"
+    },
+    {
+        name: "user4",
+        email: "testemail4@gmail.com",
+        role: "driver"
     }
 ];
 
