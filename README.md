@@ -29,5 +29,5 @@ In order to execute the current project, you have to follow the mentioned steps 
               headerName        headerValue
               Authorization     Bearer jwtToken
     
-     /admin resource can only be accessed by user with role admin or superadmin.
-     /staff resource can be accessible by user with role staff, admin, superadmin.
+     - /admin resource can only be accessed by user with role admin or superadmin.
+     - /staff resource can be accessible by user with role staff, admin, superadmin.
