@@ -16,7 +16,10 @@ In order to execute the current project, you have to follow the mentioned steps 
 1. > git clone https://github.com/AdhithyanM/role-authorization.assignment.git
 2. Open the cloned project in VSCode.
 3. Setup the server by executing the command 'npm install' from terminal.
-4. Open your REST Client Tool and access the below endpoints using GET method.
+4. Create a .env file in root folder and set below key value pairs and save
+     - SERVER_PORT=4000
+     - JWT_SECRET_KEY="yourSecretKey"
+5. Open your REST Client Tool and access the below endpoints using GET method.
 
      - http://localhost:4000/test-users
         
