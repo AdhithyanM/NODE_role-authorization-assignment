@@ -19,7 +19,8 @@ In order to execute the current project, you have to follow the mentioned steps 
 4. Create a .env file in root folder and set below key value pairs and save
      - SERVER_PORT=4000
      - JWT_SECRET_KEY="yourSecretKey"
-5. Open your REST Client Tool and access the below endpoints using GET method.
+5. Run the server by executing the command 'npm start' from terminal.
+6. Open your REST Client Tool and access the below endpoints using GET method.
 
      - http://localhost:4000/test-users
         
