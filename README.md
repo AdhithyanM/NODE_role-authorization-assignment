@@ -25,8 +25,7 @@ In order to execute the current project, you have to follow the mentioned steps 
      - http://localhost:4000/admin
      - http://localhost:4000/staff
      
-       - The above 2 urls expect a header in below format
-       -      headerName        headerValue
+       - The above 2 urls expect a header in below header name and value
        -      Authorization     Bearer jwtToken
     
      - /admin resource can only be accessed by user with role admin or superadmin.
