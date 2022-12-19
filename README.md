@@ -20,7 +20,7 @@ In order to execute the current project, you have to follow the mentioned steps 
 
      - http://localhost:4000/test-users
         
-       - This will return 3 test users and with their roles and their JWT tokens.
+       - This will return 4 test users and with their roles and their JWT tokens.
         
      - http://localhost:4000/admin
      - http://localhost:4000/staff
