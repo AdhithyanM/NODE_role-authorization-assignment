@@ -18,12 +18,12 @@ In order to execute the current project, you have to follow the mentioned steps 
 3. Setup the server by executing the command 'npm install' from terminal.
 4. Open your REST Client Tool and access the below endpoints using GET method.
 
-     - http://localhost:4000/test-users
+     1. http://localhost:4000/test-users
         
         This will return 3 test users and with their roles and their JWT tokens.
         
-     - http://localhost:4000/admin
-     - http://localhost:4000/staff
+     1. http://localhost:4000/admin
+     2. http://localhost:4000/staff
      
         The above 2 urls expect a header in below format
               headerName        headerValue
